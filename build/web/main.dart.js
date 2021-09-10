@@ -62465,7 +62465,7 @@ while(true)switch(s){case 0:o=new U.PQ(null,new L.BA(H.a([],t.lC),new L.ty(),new
 n=B.al3()
 o.KB$=n
 o.KC$=new B.Og(H.a([],t.BQ))
-n="https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCthbIFAxbXTTQEC7EcQvP1Q&maxResults=50&key=AIzaSyBKO0O-nmYiN8q1SOCpjEkTFr_t5oZ5SCM"+("&order=date&q="+a)
+n="https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCthbIFAxbXTTQEC7EcQvP1Q&maxResults=50&key=AIzaSyCNSJJ0V8Hm9KbGvf-81sfrQp3acdcCbrY"+("&order=date&q="+a)
 p=B.amU()
 p.a="GET"
 m=J
